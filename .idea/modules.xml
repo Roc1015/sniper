@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/s-api/s-api.iml" filepath="$PROJECT_DIR$/s-api/s-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s-consumer/s-consumer.iml" filepath="$PROJECT_DIR$/s-consumer/s-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s-provider/s-provider.iml" filepath="$PROJECT_DIR$/s-provider/s-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sniper.iml" filepath="$PROJECT_DIR$/sniper.iml" />
+    </modules>
+  </component>
+</project>
